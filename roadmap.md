@@ -1,0 +1,4 @@
+- [ ] Confirm file and folder rename actions
+- [ ] Add text/image to PDF creation from preview
+- [ ] Add encrypted QR export for any file, including PDFs
+- [ ] Add PDF lock/export controls and verify preview
